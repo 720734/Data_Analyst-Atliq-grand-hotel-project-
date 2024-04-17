@@ -1,11 +1,23 @@
 # Data_Analyst-Atliq-grand-hotel-project-
-It is a hotel chain business:
-The challenges faces by business such as losing revenue due to market share and high compidataion.
-To over come all the issue Atliq-grand-hotel hired a Data-analyst :
-1: Problem Statement, OLTP vs OLAP, ETL, Data Warehouse
-2.Data Exploration
-3.Data Cleaning
-4.Data Transformation
-5.Insights Generation
-conclusion:
-As a Data Analyst i retrived csv files into Jupiter Notebook and with the help of pandas framework i could able to analyst data and sucessfulloy generated insights from it.
+# Atliq Grand Hotel Data Analyst
+Overview:
+This repository showcases the work of a Data Analyst at Atliq Grand Hotel, addressing revenue challenges and market competition within the hotel chain business.
+Problem Statement:
+The hotel business faced revenue loss due to market share decline and high competition. To overcome these challenges, data analytics strategies were implemented.
+Key Concepts:
+OLTP vs OLAP: Understand the difference between Online Transactional Processing (OLTP) and Online Analytical Processing (OLAP) for efficient data handling.
+ETL (Extract, Transform, Load):Implemented ETL processes to prepare data for analysis.
+Data Warehouse: Utilized a centralized Data Warehouse to store and manage clean data for insights generation.
+Project Steps:
+1. Data Exploration:Analyzed raw data to identify patterns and relationships.
+2. Data Cleaning: Ensured data quality and consistency through cleaning processes.
+3. Data Transformation: Transformed raw data into actionable insights using Python and pandas.
+4. Insights Generation: Leveraged data analytics to derive insights for strategic decision-making.
+Tools Used:
+- Python
+- Jupyter Notebook
+- pandas
+
+Conclusion
+As a Data Analyst, CSV files were retrieved and analyzed using the pandas framework within Jupyter Notebook, generating valuable insights to inform business strategies and optimize revenue generation.
+
